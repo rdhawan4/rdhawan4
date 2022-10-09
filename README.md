@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @rdhawan4
-- 👀 I’m interested in Data Science 
-- 🌱 I’m always learning SQL,Python,R,MATLAB
-- 📫 Reach out to me on 
-     - LinkedIn: https://www.linkedin.com/in/rajat-dhawan1996/ <br>
-     - Email: dhawanrajat15@gmail.com
+- Hi, I’m @rdhawan4
+- I’m interested in Data Science 
+- I’m always learning SQL,Python,R,MATLAB
+- I develop automated frameworks to process big data in the Automobile Industry
+- I love creating Dashboards!
+- Reach out to me on 
+    - LinkedIn: https://www.linkedin.com/in/rajat-dhawan1996/ <br>
+    - Email: dhawanrajat15@gmail.com
 
 <!---
 rdhawan4/rdhawan4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
