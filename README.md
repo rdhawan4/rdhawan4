@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning SQL,Python,R,MATLAB
 - 📫 REach out to me on 
-      LinkedIn: https://www.linkedin.com/in/rajat-dhawan1996/
+      LinkedIn: https://www.linkedin.com/in/rajat-dhawan1996/ <br>
       Email: dhawanrajat15@gmail.com
 
 <!---
