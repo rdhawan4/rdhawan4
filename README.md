@@ -2,7 +2,7 @@
 - I’m interested in Data Science 
 - I’m always learning SQL,Python,R,MATLAB
 - I develop automated frameworks to process big data in the Automobile Industry
-- I have over 4 years of experience in the automobile industry analyzing the performance of electric and hybrid vehicles
+- I have over 4 years of experience in the Automobile Industry analyzing the performance of Electric and Hybrid vehicles
 - I love creating Dashboards!
 - Reach out to me on 
     - ![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn: [Rajat Dhawan](https://www.linkedin.com/in/rajat-dhawan1996/) <br>
