@@ -5,7 +5,7 @@
 - I love creating Dashboards!
 - Reach out to me on 
     - ![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn: [Rajat Dhawan](https://www.linkedin.com/in/rajat-dhawan1996/) <br>
-    - ![Gmail Badge] Email: dhawanrajat15@gmail.com
+    - ![Gmail Badge]((https://img.shields.io/badge/-mailharshkhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com))Email: dhawanrajat15@gmail.com
 
 <!---
 rdhawan4/rdhawan4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
