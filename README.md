@@ -2,11 +2,13 @@
 - I’m interested in Data Science 
 - I’m always learning SQL,Python,R,MATLAB
 - I develop automated frameworks to process big data in the Automobile Industry
+- I have over 4 years of experience in the automobile industry analyzing the performance of electric and hybrid vehicles
 - I love creating Dashboards!
 - Reach out to me on 
     - ![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn: [Rajat Dhawan](https://www.linkedin.com/in/rajat-dhawan1996/) <br>
-    - <img width="17" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png"> Email: dhawanrajat15@gmail.com
+    - <img width="17" src="https://camo.githubusercontent.com/a6d8a862aecb6411e963408e9b3c7666ab357cdfecc14a3a13645eb489688cc8/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c5f6f6c642e737667"> Email: dhawanrajat15@gmail.com
 
+<img width="50" src="https://user-images.githubusercontent.com/112804900/202898310-1602169a-fd77-4761-82dc-043ae1d46507.png">           <img width="50" src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png">            <img width="50" src="https://user-images.githubusercontent.com/112804900/202898506-61568844-bced-4f08-bfe4-1fa45725be6e.png">           <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png?20180808062052">           <img width="40" src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg">            <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"> 
 <!---
 rdhawan4/rdhawan4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
