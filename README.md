@@ -4,7 +4,7 @@
 - I develop automated frameworks to process big data in the Automobile Industry
 - I love creating Dashboards!
 - Reach out to me on 
-    - ![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn: https://www.linkedin.com/in/rajat-dhawan1996/ <br>
+    - ![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn: [Rajat Dhawan](https://www.linkedin.com/in/rajat-dhawan1996/) <br>
     - Email: dhawanrajat15@gmail.com
 
 <!---
